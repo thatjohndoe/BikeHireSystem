@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\BikeDB\BikeDB\bin\Debug\BikeDB.dacpac
+C:\Users\kevin\source\repos\BikeDB\BikeDB\bin\Debug\BikeDB.dll
+C:\Users\kevin\source\repos\BikeDB\BikeDB\bin\Debug\BikeDB.pdb
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\BikeDB.dll
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\BikeDB.pdb
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\Model.xml
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\refactor.xml
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\postdeploy.sql
+C:\Users\kevin\source\repos\BikeDB\BikeDB\obj\Debug\predeploy.sql
